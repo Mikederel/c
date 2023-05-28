@@ -5,10 +5,10 @@
     "location": "Québec, Canada",
     "social": {
       "twitter_handle": "frca_stakepool",
-      "telegram_handle": "icantremember"
+      "telegram_handle": "frca_stakepool"
     },
     "about": {
-      "server": "Ubuntu Servers (bare-metal with Google Cloud backups)"
+      "server": "Ubuntu Bare-Metal Servers with Google Cloud as Backup"
     }
   }
 }
